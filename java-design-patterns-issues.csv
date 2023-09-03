@@ -1,0 +1,183 @@
+2565,OPEN,Executable jar problem,type: bug, epic: build issue,2023-08-21 14:11:46 +0000 UTC
+2563,OPEN,Translation to Urdu,type: feature, epic: translation,2023-08-21 20:54:44 +0000 UTC
+2546,OPEN,Code repetition in Flyweight/README.md,epic: pattern, type: refactoring,2023-07-19 17:04:58 +0000 UTC
+2542,OPEN,Dynamic proxy pattern,epic: pattern, type: feature,2023-07-11 10:44:47 +0000 UTC
+2527,OPEN,Java design pattern,status: stale,2023-07-21 16:17:33 +0000 UTC
+2507,OPEN,Candidate for Known Uses of Proxy,type: enhancement, info: good first issue, epic: documentation,2023-07-19 17:03:55 +0000 UTC
+2485,OPEN,Danish language support,type: feature, status: stale, epic: translation,2023-05-11 15:44:57 +0000 UTC
+2462,OPEN,Wrong generic type for deques in command README,type: bug, info: help wanted, epic: documentation,2023-03-25 11:52:25 +0000 UTC
+2450,OPEN,Refactor Layers Architecture,epic: pattern, type: refactoring, status: stale,2023-03-15 08:37:17 +0000 UTC
+2434,OPEN,Event-carried state transfer pattern,epic: pattern, type: feature, status: stale,2023-04-19 19:55:32 +0000 UTC
+2407,OPEN,Upgrade to Spring Boot 3.x,epic: dependencies,2023-07-11 10:43:18 +0000 UTC
+2395,OPEN,Code snippet of **_<org.apache.commons.logging.LogFactory: org.apache.commons.logging.LogFactory getFactory()>_** in _**org.slf4j:jcl-over-slf4j:jar:1.7.16:compile**_ (loaded version):,epic: dependencies, type: refactoring, status: stale,2023-05-05 11:53:08 +0000 UTC
+2375,OPEN,Java 17: Start using text blocks,type: refactoring, epic: code quality, status: stale,2023-06-20 09:38:24 +0000 UTC
+2374,OPEN,BLoC design pattern,epic: pattern, type: feature, status: stale,2023-07-19 16:57:53 +0000 UTC
+2373,OPEN,Vertical slice architecture,epic: pattern, type: feature,2023-07-19 17:04:21 +0000 UTC
+2366,OPEN,Uniform handling for H2 databases,epic: architecture, type: refactoring,2023-07-11 10:42:43 +0000 UTC
+2342,OPEN,CRPT idiom,epic: pattern, type: feature, status: stale,2023-05-07 16:30:45 +0000 UTC
+2314,OPEN,Translation to Italian,info: help wanted, type: feature, epic: documentation,2022-11-06 19:13:52 +0000 UTC
+2289,OPEN,Translation to Chinese,info: help wanted, type: feature, epic: documentation,2023-01-14 06:53:17 +0000 UTC
+2288,OPEN,Translation to Vietnamese,info: help wanted, type: feature, epic: documentation,2023-07-11 10:40:40 +0000 UTC
+2287,OPEN,Translation to Turkish,info: help wanted, type: feature, epic: documentation,2022-10-30 08:15:52 +0000 UTC
+2285,OPEN,Translation to Portuguese,info: help wanted, type: feature, epic: documentation,2022-10-30 08:15:51 +0000 UTC
+2284,OPEN,Translation to Marathi,info: help wanted, type: feature, epic: documentation,2022-10-30 08:15:50 +0000 UTC
+2282,OPEN,Translate to Korean,info: help wanted, type: feature, epic: documentation,2022-10-30 08:15:48 +0000 UTC
+2281,OPEN,Translate to Japanese,info: help wanted, type: feature, epic: documentation,2023-01-09 14:22:53 +0000 UTC
+2280,OPEN,Translate to Indonesian,info: help wanted, type: feature, epic: documentation,2022-10-30 08:15:47 +0000 UTC
+2279,OPEN,Translate to Hindi,info: help wanted, type: feature, epic: documentation,2023-08-05 16:43:47 +0000 UTC
+2278,OPEN,Translate to French,info: help wanted, type: feature, epic: documentation,2022-10-30 08:15:45 +0000 UTC
+2277,OPEN,Translate to Spanish,info: help wanted, type: feature, epic: documentation,2022-10-30 08:15:45 +0000 UTC
+2276,OPEN,Translate to Greek,info: help wanted, type: feature, epic: documentation,2022-10-30 08:15:44 +0000 UTC
+2275,OPEN,Translate to German,info: help wanted, type: feature, epic: documentation,2022-10-30 08:15:43 +0000 UTC
+2274,OPEN,Translate to Bengali (Bangla),type: feature, status: stale, epic: documentation,2023-08-09 15:39:30 +0000 UTC
+2273,OPEN,Translate to Arabic,info: help wanted, type: feature, epic: documentation,2022-10-30 08:15:36 +0000 UTC
+2267,OPEN,Explanation for Update Method,type: feature, status: stale, epic: documentation,2023-02-01 20:00:24 +0000 UTC
+2266,OPEN,Explanation for Type-Object,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:10 +0000 UTC
+2264,OPEN,Explanation for Strangler,type: feature, epic: documentation,2023-08-27 08:22:29 +0000 UTC
+2263,OPEN,Explanation for Step Builder,info: help wanted, type: feature, epic: documentation,2023-08-27 08:27:51 +0000 UTC
+2262,OPEN,Explanation for Sharding,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:12 +0000 UTC
+2261,OPEN,Explanation for Service Locator,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:13 +0000 UTC
+2260,OPEN,Explanation for Servant,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:13 +0000 UTC
+2259,OPEN,Explanation for Saga,type: feature, epic: documentation,2023-07-11 10:38:26 +0000 UTC
+2258,OPEN,Explanation for Role Object,info: help wanted, type: feature, epic: documentation,2023-08-27 08:30:39 +0000 UTC
+2257,OPEN,Explanation for Resource Acquisition Is Initialization,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:15 +0000 UTC
+2256,OPEN,Explanation for Reactor,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:16 +0000 UTC
+2255,OPEN,Explanation for Queue-Based Load Leveling,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:16 +0000 UTC
+2254,OPEN,Explanation for Property,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:17 +0000 UTC
+2251,OPEN,Explanation for Partial Response,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:18 +0000 UTC
+2250,OPEN,Explanation for Page Object,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:19 +0000 UTC
+2249,OPEN,Explanation for Object Mother,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:19 +0000 UTC
+2248,OPEN,Explanation for Naked Objects,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:20 +0000 UTC
+2247,OPEN,Explanation for Mute Idiom,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:20 +0000 UTC
+2246,OPEN,Explanation for MonoState,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:21 +0000 UTC
+2245,OPEN,Explanation for Monad,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:21 +0000 UTC
+2244,OPEN,Explanation for Module,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:22 +0000 UTC
+2241,OPEN,Explanation for Master-Worker,type: feature, epic: documentation,2023-09-01 18:16:24 +0000 UTC
+2240,OPEN,Explanation for Marker Interface,type: feature, epic: documentation,2023-08-28 07:34:57 +0000 UTC
+2239,OPEN,Explanation for Leader/Followers,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:24 +0000 UTC
+2238,OPEN,Explanation for Leader Election,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:24 +0000 UTC
+2237,OPEN,Explanation for Lazy Loading,type: feature, epic: documentation,2023-08-21 14:12:41 +0000 UTC
+2236,OPEN,Explanation for Intercepting Filter,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:26 +0000 UTC
+2235,OPEN,Explanation for Hexagonal Architecture,type: feature, status: stale, epic: documentation,2023-08-17 04:48:23 +0000 UTC
+2234,OPEN,Explanation for Half-Sync/Half-Async,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:27 +0000 UTC
+2233,OPEN,Explanation for Guarded Suspension,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:27 +0000 UTC
+2232,OPEN,Explanation for Front Controller,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:28 +0000 UTC
+2231,OPEN,Explanation for Flux,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:29 +0000 UTC
+2230,OPEN,Explanation for Feature Toggle,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:29 +0000 UTC
+2229,OPEN,Explanation for Extension Objects,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:30 +0000 UTC
+2228,OPEN,Explanation for Event Sourcing,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:30 +0000 UTC
+2227,OPEN,Explanation for Event Driven Architecture,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:31 +0000 UTC
+2226,OPEN,Explanation for Event-Based Asynchronous,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:31 +0000 UTC
+2225,OPEN,Explanation for Double Dispatch,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:32 +0000 UTC
+2224,OPEN,Explanation for Double Checked Locking,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:33 +0000 UTC
+2223,OPEN,Explanation for Double Buffer,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:33 +0000 UTC
+2222,OPEN,Explanation for Dirty Flag,type: feature, status: stale, epic: documentation,2023-08-09 13:40:03 +0000 UTC
+2221,OPEN,Explanation for Delegation,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:34 +0000 UTC
+2220,OPEN,Explanation for Data Mapper,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:35 +0000 UTC
+2219,OPEN,Explanation for Data Locality,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:36 +0000 UTC
+2217,OPEN,Explanation for Command Query Responsibility Segregation (CQRS),info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:36 +0000 UTC
+2216,OPEN,Explanation for Commander,info: help wanted, type: feature, epic: documentation,2022-12-03 18:30:37 +0000 UTC
+2215,OPEN,Explanation for Collection Pipeline,type: feature, epic: documentation,2023-08-25 14:36:28 +0000 UTC
+2121,OPEN,Add hindi language localization support for the design patterns,info: good first issue, type: feature, epic: documentation,2023-08-19 06:48:14 +0000 UTC
+2062,OPEN,add Filter pattern,epic: pattern, type: feature,2023-07-11 10:44:07 +0000 UTC
+2032,OPEN,Update JVM version to the latest stable release,epic: build issue, epic: dependencies, type: task, status: stale,2023-02-27 14:51:40 +0000 UTC
+1947,OPEN,Chain Of Responsibilities Pattern Implementation using Java Interface/Implementation and Streams,epic: pattern, type: enhancement, status: stale,2023-02-01 20:00:23 +0000 UTC
+1843,OPEN,Loan pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:19 +0000 UTC
+1596,OPEN,SLOB design pattern,info: help wanted, epic: pattern, type: feature,2022-12-13 18:29:35 +0000 UTC
+1337,OPEN,xUnit test patterns,info: help wanted, epic: pattern, info: needs splitting, type: feature, info: needs clarification,2023-06-10 12:54:15 +0000 UTC
+1336,OPEN,Domain-Oriented Microservice Architecture (DOMA),info: help wanted, epic: pattern, epic: architecture, type: feature,2022-12-03 18:30:23 +0000 UTC
+1323,OPEN,Two Step View pattern,info: help wanted, epic: pattern, type: feature,2023-02-05 18:16:39 +0000 UTC
+1322,OPEN,Transform View pattern,info: help wanted, epic: pattern, type: feature,2023-01-28 09:17:59 +0000 UTC
+1320,OPEN,Template View pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:25 +0000 UTC
+1318,OPEN,Table Data Gateway pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:25 +0000 UTC
+1316,OPEN,Single Table Inheritance pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:16 +0000 UTC
+1315,OPEN,Server Session State pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:16 +0000 UTC
+1314,OPEN,Serialized LOB pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:17 +0000 UTC
+1312,OPEN,Row Data Gateway pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:17 +0000 UTC
+1311,OPEN,Remote Facade pattern,info: help wanted, epic: pattern, type: feature,2023-01-21 12:12:03 +0000 UTC
+1309,OPEN,Record Set pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:19 +0000 UTC
+1308,OPEN,Query Object pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:19 +0000 UTC
+1307,OPEN,Pessimistic Offline Lock pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:20 +0000 UTC
+1305,OPEN,Money pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:21 +0000 UTC
+1303,OPEN,Mapper pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:22 +0000 UTC
+1302,OPEN,Layer Supertype pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:22 +0000 UTC
+1301,OPEN,Inheritance Mappers pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:23 +0000 UTC
+1300,OPEN,Implicit Lock pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:23 +0000 UTC
+1298,OPEN,Identity Field pattern,info: help wanted, epic: pattern, type: feature,2023-01-21 12:13:38 +0000 UTC
+1297,OPEN,Gateway pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:25 +0000 UTC
+1296,OPEN,Foreign Key Mapping pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:25 +0000 UTC
+1293,OPEN,Dependent Mapping pattern,info: help wanted, epic: pattern, type: feature,2023-01-28 09:27:03 +0000 UTC
+1292,OPEN,Database Session State pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:27 +0000 UTC
+1290,OPEN,Concrete Table Inheritance pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:27 +0000 UTC
+1289,OPEN,Coarse-Grained Lock pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:28 +0000 UTC
+1287,OPEN,Class Table Inheritance pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:29 +0000 UTC
+1285,OPEN,J2EE message distribution patterns,epic: pattern, info: needs splitting, type: feature, status: stale,2023-02-01 20:00:16 +0000 UTC
+1283,OPEN,Lock Manager pattern,info: help wanted, epic: pattern, type: feature,2023-01-28 09:25:07 +0000 UTC
+1281,OPEN,Pessimistic Concurrency pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:31 +0000 UTC
+1280,OPEN,Optimistic Concurrency pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:32 +0000 UTC
+1279,OPEN,Transactional Context pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:32 +0000 UTC
+1278,OPEN,Session Facade pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:33 +0000 UTC
+1277,OPEN,Service Adapter pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:34 +0000 UTC
+1276,OPEN,Tuple Table pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:35 +0000 UTC
+1274,OPEN,Table Inheritance pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:36 +0000 UTC
+1273,OPEN,Stored Procedures for Primary Keys pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:36 +0000 UTC
+1272,OPEN,PK Block Generator pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:37 +0000 UTC
+1271,OPEN,Procedure Access Object pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:38 +0000 UTC
+1270,OPEN,DAO Factory pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:38 +0000 UTC
+1269,OPEN,Data Transfer Hash pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:39 +0000 UTC
+1266,OPEN,Caching Filter pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:39 +0000 UTC
+1265,OPEN,Asynchronous Page pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:40 +0000 UTC
+1264,OPEN,Composite View pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:40 +0000 UTC
+1263,OPEN,View Helper pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:41 +0000 UTC
+1260,OPEN,Compose Method pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:42 +0000 UTC
+1258,OPEN,Functional core, imperative shell pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:42 +0000 UTC
+1246,OPEN,Service Mesh pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:43 +0000 UTC
+1219,OPEN,Rule engine design pattern,info: help wanted, epic: pattern, type: feature,2023-01-21 12:10:28 +0000 UTC
+1216,OPEN,add MVI(Model-View-Intent) Pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:44 +0000 UTC
+1087,OPEN,Space-based architecture,info: help wanted, epic: pattern, epic: architecture, type: feature,2022-12-03 18:30:45 +0000 UTC
+1086,OPEN,Microkernel architecture,info: help wanted, epic: pattern, epic: architecture, type: feature,2022-12-03 18:30:45 +0000 UTC
+917,OPEN,Store and Process Stream Processing - Makes Stream Processing easy,info: help wanted, epic: pattern, type: feature,2023-04-04 11:32:18 +0000 UTC
+892,OPEN,Kappa Architecture - Where Everything Is A Stream,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:48 +0000 UTC
+873,OPEN,Unit of Work pattern is Too simplified,info: help wanted, type: support, type: enhancement,2022-12-03 18:30:48 +0000 UTC
+871,OPEN,Sidecar pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:49 +0000 UTC
+841,OPEN,Client-Server (Sockets) pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:50 +0000 UTC
+606,OPEN,Robot pattern,info: help wanted, epic: pattern, type: feature,2023-01-21 12:14:09 +0000 UTC
+523,OPEN,Remote Presentation Model pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:51 +0000 UTC
+511,OPEN,SAM pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:52 +0000 UTC
+509,OPEN,Component Object pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:53 +0000 UTC
+485,OPEN,Entity component system (ECS) pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:53 +0000 UTC
+468,OPEN,Binding Properties pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:54 +0000 UTC
+460,OPEN,Asynchronous Retry pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:55 +0000 UTC
+439,OPEN,Dependency Command pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:55 +0000 UTC
+429,OPEN,IODA architectural pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:56 +0000 UTC
+414,OPEN,Skeptic design pattern - Circuit Breaker alternative,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:57 +0000 UTC
+394,OPEN,Collector State Pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:57 +0000 UTC
+393,OPEN,Notification Pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:58 +0000 UTC
+383,OPEN,Service Registry pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:58 +0000 UTC
+381,OPEN,Service Stub pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:30:59 +0000 UTC
+379,OPEN,Composition root pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:31:00 +0000 UTC
+351,OPEN,Plugin pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:31:00 +0000 UTC
+347,OPEN,Association Table Mapping pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:31:01 +0000 UTC
+346,OPEN,Application Controller pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:31:02 +0000 UTC
+328,OPEN,ETL architectural pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:31:03 +0000 UTC
+307,OPEN,Staged Event Driven Architecture (SEDA),info: help wanted, epic: pattern, type: feature,2022-12-03 18:31:03 +0000 UTC
+304,OPEN,Presentation-Abstraction-Control pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:31:04 +0000 UTC
+302,OPEN,Elm architectural pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:31:04 +0000 UTC
+301,OPEN,Redux architectural pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:31:05 +0000 UTC
+300,OPEN,Backends for Frontends pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:31:06 +0000 UTC
+249,OPEN,Temporal patterns,info: help wanted, epic: pattern, type: feature,2023-02-28 07:11:26 +0000 UTC
+231,OPEN,Acceptor-Connector pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:31:08 +0000 UTC
+230,OPEN,Service configurator pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:31:08 +0000 UTC
+214,OPEN,Data-Context-Interaction (DCI) pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:31:09 +0000 UTC
+203,OPEN,Finite State Machine pattern,info: help wanted, epic: pattern, type: feature,2022-12-04 08:51:15 +0000 UTC
+199,OPEN,External Configuration Store Pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:31:10 +0000 UTC
+112,OPEN,Disruptor Pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:31:11 +0000 UTC
+103,OPEN,Open Session In View pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:31:12 +0000 UTC
+88,OPEN,Facet pattern,info: help wanted, epic: pattern, type: feature,2023-01-21 12:13:06 +0000 UTC
+79,OPEN,Active Record pattern,info: help wanted, epic: pattern, type: feature,2023-02-05 18:15:52 +0000 UTC
+78,OPEN,Proactor pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:31:13 +0000 UTC
+76,OPEN,Scheduler pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:31:14 +0000 UTC
+70,OPEN,Join pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:31:15 +0000 UTC
+67,OPEN,Binding Properties pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:31:15 +0000 UTC
+64,OPEN,Blackboard architectural pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:31:16 +0000 UTC
+52,OPEN,Add virtual field pattern,info: help wanted, epic: pattern, type: feature,2022-12-03 18:31:16 +0000 UTC
