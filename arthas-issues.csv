@@ -1,0 +1,234 @@
+2645,OPEN,【需求】如何获取某个对象被哪些对象依赖,,2023-08-31 09:55:27 +0000 UTC
+2630,OPEN,[疑问]trace命令动态代理类无法再深入下层了吗?,,2023-08-23 02:57:44 +0000 UTC
+2628,OPEN,arthas-Web资源请求，可以配置相对路径吗？,,2023-08-22 03:00:12 +0000 UTC
+2627,OPEN,jdk 17, arthas attach目标进程失败, Agent JAR not found or no Agent-Class attribute,,2023-08-29 15:49:45 +0000 UTC
+2625,OPEN,Arthas3.6.9版本 profiler无法生成火焰图,,2023-08-21 14:51:59 +0000 UTC
+2623,OPEN,attach idea后报错 Can not load JavaCompiler from javax.tools.ToolProvider#getSystemJavaCompiler,,2023-08-18 08:02:42 +0000 UTC
+2619,OPEN,查看环境变量的 sysenv 能否优化一下？,,2023-08-29 15:47:59 +0000 UTC
+2618,OPEN,执行dashboard查看进程信息，没有返回主线程1,,2023-08-15 06:40:56 +0000 UTC
+2616,OPEN,arthas 4.0 版本的 脚本命令讨论，是用旧的 as.sh/arthas-boot.jar ，还是用 as4.sh/arthas-boot4.jar,disscuss,2023-08-15 06:05:54 +0000 UTC
+2611,OPEN,升级 ognl 依赖版本,,2023-08-11 11:32:12 +0000 UTC
+2610,OPEN,是否在JRockit下正常使用,,2023-08-11 09:14:19 +0000 UTC
+2605,OPEN,Http api 重定向符号失效,,2023-08-05 12:29:45 +0000 UTC
+2599,OPEN,Arthas Spring Boot Starter 有计划支持 SpringBoot3 吗？,,2023-08-01 03:04:59 +0000 UTC
+2597,OPEN,是否可以支持统计线程信息。线程名去掉数字之后统计线程名数量,,2023-08-09 06:00:55 +0000 UTC
+2596,OPEN,使用mc编译，出现“符号冲突”bug,,2023-07-28 02:41:29 +0000 UTC
+2595,OPEN,使用http api并发调用2次不同的monitor命令时抛出并发修改arraylist的异常,,2023-07-27 14:04:28 +0000 UTC
+2594,OPEN,请问vmtool打算开放API出来吗？非常希望拥有里面强大的功能。,,2023-07-27 12:30:15 +0000 UTC
+2593,OPEN,arthas-tunnel-server WebSocket能否和前端项目使用相同的端口不使用默认的7777,,2023-07-26 01:12:59 +0000 UTC
+2591,OPEN,[WeeklyReport] Weekly report for arthas 7/17/2023 to 7/24/2023,weekly-report,2023-07-24 04:00:03 +0000 UTC
+2590,OPEN,watch -m 报错ognl.NoSuchPropertyException,,2023-07-20 08:34:55 +0000 UTC
+2589,OPEN,tt -w获取指定bean然后执行指定方法时，long类型数据超过100万时，会出现ognl.MethodFailedException,,2023-07-19 15:25:55 +0000 UTC
+2588,OPEN,使用vmtool查看自动配置类实例中实时配置信息【user case】,,2023-07-28 09:43:54 +0000 UTC
+2587,OPEN,k8s 中Alpine 上运行profiler start 会导致java 进程关闭,并无法生产火焰图,,2023-08-01 03:06:30 +0000 UTC
+2586,OPEN,字节码插拔命令是否会在arthas停止之后去掉插入代码,,2023-08-09 09:51:45 +0000 UTC
+2585,OPEN,[WeeklyReport] Weekly report for arthas 7/10/2023 to 7/17/2023,weekly-report,2023-07-17 04:00:03 +0000 UTC
+2584,OPEN,occur java.lang.ClassCircularityError,,2023-07-14 06:16:22 +0000 UTC
+2582,OPEN,启动Arthas报空指针异常,,2023-07-14 06:53:13 +0000 UTC
+2581,OPEN,如何排查一个正在运行的方法,,2023-07-12 07:45:33 +0000 UTC
+2580,OPEN,使用trace命令报错UnsupportedOperationException: class redefinition failed: attempted to delete a method,,2023-07-11 04:24:03 +0000 UTC
+2572,OPEN,When Tunnel Server uses a custom port, the jump from the detail-pages to the agent console page fails.,,2023-07-06 07:51:04 +0000 UTC
+2571,OPEN,session 命令期望增加 session 列表参数,,2023-06-28 03:07:55 +0000 UTC
+2565,OPEN,用http的方式调用watch，偶现cost的值是当前时间的时间戳,question-answered,2023-06-21 07:36:08 +0000 UTC
+2563,OPEN,k8s容器部署项目引入arthas依赖，启动不会注册到arthas-tunnel-server,,2023-06-18 15:46:21 +0000 UTC
+2556,OPEN,Version 3.6.9 tunnel-server connect arthas-agent was blank page that use Safari browser,,2023-06-09 09:45:35 +0000 UTC
+2555,OPEN,Arthas HTTP api创建多个异步任务，拉取结果仅能获取第一个命令的返回值,,2023-06-08 02:13:48 +0000 UTC
+2554,OPEN,jad 与 dump 出来的类不一样,,2023-06-07 08:02:26 +0000 UTC
+2550,OPEN,trace mybatis mapper 能否显示getConnection的耗时？,,2023-06-02 03:52:39 +0000 UTC
+2549,OPEN,watch/trace 支持匹配 classloader,,2023-05-31 09:43:32 +0000 UTC
+2548,OPEN,请教使用bytekit中的@Binding.InvokeArgs Object[] args抛出异常的问题,,2023-05-31 02:37:02 +0000 UTC
+2547,OPEN,heapdump离线分析,,2023-05-31 02:26:16 +0000 UTC
+2539,OPEN,条件表达式 Set类型,,2023-05-24 07:40:28 +0000 UTC
+2536,OPEN,同一台服务器可以使用多个arthas嘛？,,2023-05-19 08:22:25 +0000 UTC
+2535,OPEN,arthas tunnel server和agent启动正常，agentid也出来的，但是在web端输入agentid显示不了命令行界面,,2023-07-07 02:43:57 +0000 UTC
+2531,OPEN,Support --cstack option for profiler,,2023-05-18 04:20:04 +0000 UTC
+2530,OPEN,Arthas代码切换到 JDK8,target_jdk8,2023-08-28 02:09:53 +0000 UTC
+2528,OPEN,Arthas内部服务异步化，再包装为 gRPC 服务暴露,help wanted, disscuss,2023-07-02 06:58:55 +0000 UTC
+2527,OPEN,arthas 能获取dao改数据库吗,,2023-05-18 04:35:18 +0000 UTC
+2526,OPEN,巧用arthas 分析 java.lang.reflect.UndeclaredThrowableException 异常来源,user-case,2023-08-28 09:00:57 +0000 UTC
+2525,OPEN,支持查看对象占用的堆空间大小（Shallow or Retained）,,2023-05-15 16:47:32 +0000 UTC
+2524,OPEN,arthas-spring-boot-starter 需要支持 spring boot3,,2023-05-15 08:03:15 +0000 UTC
+2522,OPEN,watch命令入参传一个list，却在监听的时候显示为空,,2023-05-15 03:48:57 +0000 UTC
+2521,OPEN,关于OkHttpClient 在高并发报java.lang.OutOfMemoryError unalbe to create new native thread，使用arthas的优化解决方案,user-case,2023-05-15 03:31:21 +0000 UTC
+2518,OPEN,我想通过arthas来统计某个类中所有方法被执行过的次数，请问用什么命令可以来查看,,2023-07-25 08:40:07 +0000 UTC
+2517,OPEN,切换到 junit5,target_jdk8,2023-05-11 07:46:05 +0000 UTC
+2515,OPEN,load class file failed: /opt/XXXX.class, error: java.lang.IllegalArgumentException: Unsupported class file major version 29557,,2023-05-11 04:59:25 +0000 UTC
+2514,OPEN,没法正确选择进程process information unavailable,,2023-05-11 02:11:44 +0000 UTC
+2512,OPEN,arthas-tunnel-server的/proxy/{agentId}/**请求异常,,2023-05-10 06:31:59 +0000 UTC
+2508,OPEN,arthas tunnel server 接口 /proxy/{agentId}/** 的请求示例能不能给一个,,2023-05-25 11:36:26 +0000 UTC
+2507,OPEN,API接口调用，thread命令返回数据有误,,2023-05-08 13:18:28 +0000 UTC
+2504,OPEN,在 Alpine Linux 环境下运行 vmtool 命令报 Error loading shared library libstdc++.so.6: No such file or directory 异常,,2023-05-11 09:53:23 +0000 UTC
+2500,OPEN,tunnel server能不能限制用户输入的命令,,2023-05-05 07:50:54 +0000 UTC
+2498,OPEN,升级到 fastjson2,,2023-05-04 11:09:01 +0000 UTC
+2490,OPEN,请升级一下依赖 jackson-databind 的版本,,2023-04-28 11:22:51 +0000 UTC
+2473,OPEN,【2023 开源之夏】欢迎学生参与Arthas项目~,help wanted, disscuss,2023-06-05 06:10:50 +0000 UTC
+2472,OPEN,如何使用java -jar arthas-boot.jar启动时Attach到一个自身进程的应用,,2023-04-18 03:21:46 +0000 UTC
+2469,OPEN,Arthas 容器内attach慢的问题,,2023-04-18 03:29:14 +0000 UTC
+2453,OPEN,展示死锁线程信息以提高定位效率,,2023-04-28 08:25:30 +0000 UTC
+2433,OPEN,线程卡死场景下，获取线程的栈帧数据以提高问题排查的效率,,2023-02-26 15:36:40 +0000 UTC
+2425,OPEN,arthas.properties的配置对于arthas-client不生效,,2023-04-28 09:07:48 +0000 UTC
+2421,OPEN,return retransform ids on HTTP API retransform class request,,2023-01-31 08:42:36 +0000 UTC
+2417,OPEN,被watch的方法，因为执行耗时超长，导致arthas一直没有返回执行结果，无法分析慢在哪里,,2023-05-03 02:18:12 +0000 UTC
+2394,OPEN,vmtool里面还可以继续使用vmtool吗?,,2023-06-25 09:58:42 +0000 UTC
+2393,OPEN,通过http api执行dashboard命令30s才有返回，tunnelserver下正常返回,,2023-01-10 08:43:38 +0000 UTC
+2386,OPEN,有办法通过提供一个指令，dump线程堆栈信息吗？,,2023-04-14 07:33:51 +0000 UTC
+2383,OPEN,通过http api执行async_exec异步命令，返回结果的条数与命令中设定的不一致。,,2023-03-21 11:01:30 +0000 UTC
+2380,OPEN,JDK 17 thread/dashboard 无法显示JVM内部线程的问题,,2023-05-03 02:11:41 +0000 UTC
+2365,OPEN,使用疑问 ApiResponse format,,2022-12-06 13:16:52 +0000 UTC
+2363,OPEN,stack命令, 如果判断当前jdk的版本大于9时可以使用StackWalker API,,2022-12-05 06:17:46 +0000 UTC
+2360,OPEN,Enhancer 避免只增强部分字节码,,2023-05-09 10:28:15 +0000 UTC
+2357,OPEN,基于Arthas的部分源码重构的Web可视化诊断平台实践，有兴趣的可以看看,,2022-11-30 15:33:40 +0000 UTC
+2354,OPEN,请问webflux项目可以用trace统计耗时吗,,2022-11-21 16:48:42 +0000 UTC
+2352,OPEN,tunnel-server启动时报错redis连接失败,,2022-11-21 07:50:01 +0000 UTC
+2351,OPEN,有关于生产环境 web-ui 和 tunnel-server 部署的一些疑问,,2022-11-24 06:20:18 +0000 UTC
+2349,OPEN,实现一个简化版的grpc,help wanted,2022-11-18 08:08:42 +0000 UTC
+2340,OPEN,tunnel server 如何集群部署,help wanted,2022-11-24 08:18:50 +0000 UTC
+2326,OPEN,memory命令最大堆内存计算疑问,,2022-11-09 15:21:51 +0000 UTC
+2296,OPEN,arthas是否支持动态执行代码？,,2023-05-29 06:06:18 +0000 UTC
+2288,OPEN,attach容器内的java进程执行时间过长,,2023-08-16 02:22:07 +0000 UTC
+2285,OPEN,tomcat容器，tt 命令回放流量之后Thread的contextClassLoader从ParallelWebappClassLoader变成了sun.misc.Launcher$AppClassLoader,,2022-09-14 09:21:45 +0000 UTC
+2284,OPEN,考虑改为单个 command 支持更多配置项，避免只能设置全局的 options,disscuss,2022-09-09 05:50:40 +0000 UTC
+2282,OPEN,启动报错,,2022-11-08 03:19:01 +0000 UTC
+2281,OPEN,vmtool 增加一个 filter 的表达式，过滤出想要的对象,,2023-05-31 08:06:16 +0000 UTC
+2280,OPEN,jad 增强直接反编译某个 .class 文件的功能,,2023-01-06 02:51:01 +0000 UTC
+2279,OPEN,tt -t ，绑定进程的节点容易触发sentinel 限流,,2022-09-09 03:13:05 +0000 UTC
+2276,OPEN,建议json-format选项对于console和http api能够分开设置,,2022-09-05 15:34:33 +0000 UTC
+2271,OPEN,请问下，http-api请求可以通过tunnel-server代理远端服务器吗？,,2022-09-02 10:22:31 +0000 UTC
+2268,OPEN,通过arthas获得bean的属性,,2023-05-30 11:48:56 +0000 UTC
+2250,OPEN,watch 时ognl报NoSuchFieldException,,2022-08-17 02:07:34 +0000 UTC
+2246,OPEN,想要通过tunnel-server下载heapdump命令生成的.hprof文件,,2022-11-18 03:18:05 +0000 UTC
+2239,OPEN,线程相关信息超出tty 宽度时，信息会被隐藏，而不是换行,,2022-08-12 09:21:03 +0000 UTC
+2234,OPEN,trace统计reactor.netty.http.client.HttpClientFinalizer问题,,2023-05-27 08:57:46 +0000 UTC
+2219,OPEN,[建议]Telnet和Http使用不同的IP配置,,2022-07-14 09:28:41 +0000 UTC
+2216,OPEN,ArthasAgent能否把ArthasBootstrap对象放出来，能够主动调用destroy,,2022-07-05 05:51:45 +0000 UTC
+2211,OPEN,wathc/trace/monitor 等增加按 ClassLoader匹配类功能,enhancement,2022-11-15 06:40:53 +0000 UTC
+2206,OPEN,watch命令Bug，HTTP API方式使用watch命令，入参为引用类型且方法中间被修改时，-b -结果为出参,bug,2022-06-20 06:44:44 +0000 UTC
+2196,OPEN,logger命令执行成功, 实际项目的日志级别仍然是原来的级别,,2022-06-20 06:23:59 +0000 UTC
+2180,OPEN,http api StackOverflowError server error,,2022-05-24 07:12:33 +0000 UTC
+2177,OPEN,[QUESTION] 为什么 direct memory max 不显示,,2022-05-13 15:22:05 +0000 UTC
+2175,OPEN,watch命令是否可以支持监控方法结束行号,,2022-05-10 15:45:43 +0000 UTC
+2174,OPEN,mac arm cpu下使用arm JDK 全量编译时失败,,2022-05-10 08:34:33 +0000 UTC
+2170,OPEN,支持启动时增强/trace/watch类,help wanted, disscuss,2022-11-10 06:31:06 +0000 UTC
+2165,OPEN,class redefinition failed: attempted to change the schema (add/remove fields) 分析排查,question-answered,2022-04-28 03:04:41 +0000 UTC
+2164,OPEN,更好的profiler命令支持,help wanted,2023-08-24 08:06:53 +0000 UTC
+2163,OPEN,开发一个native agent和远程管理平台，方便管理集群,help wanted,2022-09-23 08:54:21 +0000 UTC
+2146,OPEN,[投票]Arthas考虑主线支持JDK8及之后的版本，JDK6/JDK7分支维护,help wanted, disscuss,2023-04-23 08:30:18 +0000 UTC
+2137,OPEN,arthas 本身内存泄漏,,2022-03-31 09:53:12 +0000 UTC
+2133,OPEN,profiler不支持同时profile多个Event,,2022-03-25 03:40:32 +0000 UTC
+2131,OPEN,watch命令在verbose模式下，打印更多信息,enhancement,2022-07-30 07:52:40 +0000 UTC
+2127,OPEN,TomcatEmbeddedWebappClassLoader 导致 classloader -l命令输出结果错位,bug,2022-03-15 03:20:34 +0000 UTC
+2122,OPEN,Unable use as-package.sh install artahs,,2022-04-09 04:55:51 +0000 UTC
+2114,OPEN,堆外内存的使用与释放问题,,2022-04-24 03:26:01 +0000 UTC
+2107,OPEN,arthas怎么通过客户端远程监控pod中的进程,,2022-02-18 08:59:31 +0000 UTC
+2100,OPEN,可以用来trace javax.naming.Context 里的lookup吗,,2022-02-04 12:54:28 +0000 UTC
+2091,OPEN,无法通过ognl调用父类的方法,,2022-02-09 12:23:46 +0000 UTC
+2088,OPEN,arthas attach 失败,,2022-12-01 06:09:55 +0000 UTC
+2087,OPEN,如何查看启动服务的agentId?,,2022-01-18 11:30:56 +0000 UTC
+2084,OPEN,thread -b显示JUL的疑问,,2022-01-18 02:59:50 +0000 UTC
+2073,OPEN,JobTimeoutTask leak problems,,2022-01-07 07:41:51 +0000 UTC
+2071,OPEN,watch时怎么获取 Mono对象中实际的值,,2022-01-07 03:26:34 +0000 UTC
+2065,OPEN,请问arthas能否支持非交互的命令行使用方式，方便脚本自动化调用,,2022-01-04 08:22:21 +0000 UTC
+2061,OPEN,经过 tunnel server连接，查看arthas-output 不支持大文件,,2022-01-04 08:26:21 +0000 UTC
+2060,OPEN,--exclude-class-pattern 不支持通配符/正则表达式,,2021-12-22 03:36:02 +0000 UTC
+2058,OPEN,同样的watch命令，http api和命令行终端返回结果不一致,,2021-12-20 11:06:07 +0000 UTC
+2053,OPEN,有没有提供可视化页面的想法,,2021-12-14 16:32:14 +0000 UTC
+2052,OPEN,web console可用但是arthas-boot.jar 无法attach,,2021-12-14 11:33:26 +0000 UTC
+2050,OPEN,docker unable to start,,2021-12-14 05:11:06 +0000 UTC
+2047,OPEN,动态添加log4j配置修复log4j远程执行漏洞,,2022-01-26 16:50:23 +0000 UTC
+2042,OPEN,watch命令，map.get("aa:bb")报错，ognl.ParseException: Encountered " ":",,2021-12-10 01:29:08 +0000 UTC
+2040,OPEN,web console 可以修改配色方案吗,或者至少内置两种,黑底白字对比太高,很费眼,,2022-11-25 08:55:58 +0000 UTC
+2031,OPEN,Arthas 导致 Java 程序崩溃,,2022-01-19 07:16:11 +0000 UTC
+2030,OPEN,trace查询不到具体耗时的方法,,2021-11-29 06:19:48 +0000 UTC
+2027,OPEN,mc 程序包auxiliary不存在,,2021-11-15 11:56:32 +0000 UTC
+2025,OPEN,trace存在ms级的性能损耗吗？,,2021-11-11 06:07:04 +0000 UTC
+2022,OPEN,mac运行./as.sh --debug-attach时无反应,,2022-01-13 12:46:10 +0000 UTC
+2012,OPEN,web-console通过nginx反向代理连接agent失败,,2022-10-13 11:08:18 +0000 UTC
+2006,OPEN,http api执行echo abc > test.txt，文件创建了，但是内容为空,,2022-09-02 08:17:46 +0000 UTC
+2003,OPEN,火焰图的--include和--exclude选项不生效,,2021-10-13 10:22:17 +0000 UTC
+1969,OPEN,tt -t 增强类之后会把函数的参数名给抹除,reset也没用,,2021-09-29 06:04:56 +0000 UTC
+1964,OPEN,jad反编译经过byte-buddy增强后的类信息不正确,,2021-09-27 13:30:45 +0000 UTC
+1963,OPEN,jad反编译出现行数乱串/不显示行数的问题,,2022-04-21 08:30:19 +0000 UTC
+1919,OPEN,arthas 同一参数入参和返回对象是一个（内容不同），但出参和返回均指向了后者,,2021-09-18 11:25:58 +0000 UTC
+1905,OPEN,arthas-tunnel-server功能扩展,,2021-09-01 15:37:44 +0000 UTC
+1902,OPEN,watch命令 :入参和监听到的结果有ArrayList 报StackOverflowError,,2021-08-31 03:43:03 +0000 UTC
+1874,OPEN,在k8s 临时容器 ephemeral container里 attach 问题,question-answered,2022-05-06 02:01:27 +0000 UTC
+1854,OPEN,VMTools 添加内存使用排行榜公布功能,,2021-08-19 15:59:14 +0000 UTC
+1849,OPEN,Dashboard中显示的线程的依据是什么,,2021-07-08 06:05:06 +0000 UTC
+1814,OPEN,通过HTTP API执行sc返回server error,,2021-06-08 01:22:33 +0000 UTC
+1811,OPEN,如何后台启动Arthas服务，使用Http API使用功能,,2021-06-01 08:11:09 +0000 UTC
+1805,OPEN,请教 profiler --event 的 wall 和 itimer 是什么意思,,2021-05-31 03:06:17 +0000 UTC
+1794,OPEN,使用 ognl 表达式，arthas stop后， ArthasClassLoader 不能被回收,bug,2021-05-13 11:53:17 +0000 UTC
+1769,OPEN,ws连接tunnelserver发送matedata,,2021-04-20 16:11:24 +0000 UTC
+1768,OPEN,支持 async profiler里的 Java method profiling,,2022-03-01 08:52:28 +0000 UTC
+1766,OPEN,profiler命令报错：libasyncProfiler-mac-x64.so no suitable image found,,2021-04-14 07:38:10 +0000 UTC
+1759,OPEN,arthas tunnel报错connect error,,2021-04-08 09:11:45 +0000 UTC
+1735,OPEN,tunnel server连接远程agent报错,,2021-03-13 17:20:23 +0000 UTC
+1706,OPEN,在错误信息提示里，加上 faq页的链接,,2021-02-24 08:53:40 +0000 UTC
+1676,OPEN,Unable to startup Spring Boot app running inside Docker,,2021-01-22 03:51:29 +0000 UTC
+1603,OPEN,debug and got com.sun.tools.attach.spi.AttachProvider: Provider issue,,2020-12-09 02:27:55 +0000 UTC
+1600,OPEN,zip error: Zip file structure invalid (arthas-tunnel-server-3.4.4-fatjar.jar),,2020-12-03 16:38:15 +0000 UTC
+1564,OPEN,trace命令不能追踪回调函数,,2020-11-04 08:56:47 +0000 UTC
+1544,OPEN,自动trace lambda函数,,2022-05-23 07:55:20 +0000 UTC
+1541,OPEN,不能把byteBuffer 转化为可读字符,,2020-10-16 12:44:26 +0000 UTC
+1539,OPEN,trace自动追加实现深层次的追踪,,2020-10-12 10:16:31 +0000 UTC
+1534,OPEN,CI构建运行testcase经常出现连接arthas.aliyun.com失败,,2020-09-29 10:58:24 +0000 UTC
+1532,OPEN,运行testcase报错: ch.qos.logback.core.util.IncompatibleClassException,,2020-09-28 08:10:29 +0000 UTC
+1524,OPEN,访问WebConsole后Arthas的工作线程数过多,,2020-09-24 07:01:22 +0000 UTC
+1522,OPEN,3.3.7版本在jdk1.6下的异常,,2022-01-07 06:36:02 +0000 UTC
+1519,OPEN,用JDK 8启动arthas-boot.jar注入JDK 11的Java进程提示失败，但实际注入成功,,2021-05-12 02:49:41 +0000 UTC
+1493,OPEN,使用tt 、trace、watch 命令查看方法(响应式编程)的耗时，测试结果与实际结果偏差非常大,,2023-01-10 03:36:52 +0000 UTC
+1491,OPEN,使用tt命令后, 怎么获取指定方法的执行线程?,,2020-09-11 05:05:06 +0000 UTC
+1482,OPEN,heapdump 文件属性,,2020-09-09 02:43:06 +0000 UTC
+1477,OPEN,批量执行command，-t或者--execution-timeout不管用，会一直挂起,,2020-09-14 09:43:09 +0000 UTC
+1475,OPEN,怎麽用arthas檢查某個端口是哪個程序啓動的？,,2020-09-08 09:25:49 +0000 UTC
+1470,OPEN,通过logger -c --name --level 修改日志级别 提示是成功 实际没修改成功,,2022-05-19 02:27:24 +0000 UTC
+1461,OPEN,latest_version api may error,,2021-04-21 11:54:15 +0000 UTC
+1452,OPEN,springmvc mapper trace 无法查看mapper内部的trace信息,,2020-09-07 08:12:34 +0000 UTC
+1391,OPEN,Flamegraph with no samples been generated,,2020-07-29 02:27:19 +0000 UTC
+1386,OPEN,arthas 把功能核心分成组件，可以指定启动,disscuss,2020-07-27 02:54:15 +0000 UTC
+1361,OPEN,AtInvokeTest 测试用例报错问题定位,,2020-07-24 07:27:35 +0000 UTC
+1358,OPEN,自定义keymap inputrc后，原来打开的telnet会话显示的快捷键与实际不符,,2020-07-22 12:27:03 +0000 UTC
+1351,OPEN,trace 命令输出的throw调用层级关系不正确,,2020-07-21 09:03:40 +0000 UTC
+1350,OPEN,考虑提供 client/server 的工作方式,help wanted, disscuss,2020-08-28 03:02:22 +0000 UTC
+1349,OPEN,trace 命令输出的throw 行号没有对照物，缺少异常抛出点的类名和方法名,,2022-05-27 04:04:42 +0000 UTC
+1275,OPEN,watch native方法报错信息不友好,,2020-06-23 02:38:14 +0000 UTC
+1270,OPEN,在线教程进阶模块中Ognl命令打印中文出现乱码,,2020-07-01 02:54:17 +0000 UTC
+1269,OPEN,Enhance error! exception: java.lang.NoClassDefFoundError: class names don't match,,2022-11-11 05:26:39 +0000 UTC
+1268,OPEN,ByteKit inline方式的invokeOrigin 丢失行号，原方法throw的异常丢失行号不方便排查,,2020-06-19 03:53:47 +0000 UTC
+1266,OPEN,ByteKit Interceptor inline模式访问Interceptor private静态字段失败,,2020-06-18 03:29:13 +0000 UTC
+1265,OPEN,ByteKit @AtFieldAccess 同时拦截访问前和访问后插入代码不正确,,2020-06-18 03:11:34 +0000 UTC
+1264,OPEN,Bytekit AtInvokeTest 单元测试失败,,2020-06-23 12:43:42 +0000 UTC
+1261,OPEN,ByteKit invokeOrigin 是否可以支持非inline模式,,2020-06-18 02:41:43 +0000 UTC
+1257,OPEN,增加排查问题专题系列，比如dubbo专题，mybatis专题，rocketmq专题,,2020-06-22 15:46:57 +0000 UTC
+1251,OPEN,增加一个配置，排除掉指定 ClassLoader 加载的类，或者指定 package下面类，不做类增强,,2020-06-11 09:32:11 +0000 UTC
+1227,OPEN,javascript 引擎生成的字节码jad反编译不出来,,2020-06-03 14:15:10 +0000 UTC
+1168,OPEN,Support html view for WebUI,SoC2020,2020-06-24 02:22:36 +0000 UTC
+1167,OPEN,Support text WebUI,,2020-05-13 06:05:35 +0000 UTC
+1142,OPEN,Enhance the security of arthas (增强arthas的安全性),disscuss, SoC2020,2021-07-29 09:26:53 +0000 UTC
+1104,OPEN,Arthas support batch scripts when init,,2020-05-27 03:44:16 +0000 UTC
+1082,OPEN,希望trace，watch,tt支持CompletableFuture,,2020-04-04 02:52:16 +0000 UTC
+1069,OPEN,macOS 终端ctrl+z 不能暂停job执行,,2020-03-24 11:22:20 +0000 UTC
+1063,OPEN,trace是否考虑支持CompletableFuture,,2020-03-20 03:40:30 +0000 UTC
+995,OPEN,ArthasClassloader support load class from SystemClassLoader,someday,2020-09-11 12:35:38 +0000 UTC
+909,OPEN,管道命令没有在stat统计数据中,,2020-05-28 03:20:34 +0000 UTC
+907,OPEN,Trace transient method invocation on startup,,2019-10-30 07:27:03 +0000 UTC
+901,OPEN,参数由long替换为Long，redefine后报NoSuchMethodError,,2021-01-15 01:14:16 +0000 UTC
+880,OPEN,把 target-ip 改为 listen host，这个导致很多误解,,2019-10-09 14:12:31 +0000 UTC
+811,OPEN,[feather] trace功能下钻不到子线程，能否解决？,,2020-08-13 06:08:44 +0000 UTC
+805,OPEN,在webclome 信息里打印出arthas listen的端口,,2020-01-28 14:56:50 +0000 UTC
+732,OPEN,Support repository, execute batch command/remote command,feature, disscuss, kind/feature-request, SoC2020,2020-05-13 03:43:09 +0000 UTC
+730,OPEN,watch等命令 retransformClasses 执行失败 java.lang.InternalError,question-answered,2020-05-09 03:46:52 +0000 UTC
+655,OPEN,Jad / mc / redefine : missed classes dependencies when using multiple classloaders,,2020-02-13 03:24:27 +0000 UTC
+620,OPEN,Consider sm\trace\watch command support inherited methods?,,2019-04-04 03:06:46 +0000 UTC
+603,OPEN,Extract the ShellImpl to a separate module,4.0,2019-03-27 07:47:18 +0000 UTC
+594,OPEN,Better way to get file from URL,,2020-02-03 15:42:24 +0000 UTC
+590,OPEN,Find out what permissions Arthas needs,disscuss,2019-03-20 16:22:13 +0000 UTC
+573,OPEN,bytekit API 和 功能,disscuss, 4.0,2019-03-19 06:18:29 +0000 UTC
+558,OPEN,Arthas 4 support plugin system,4.0,2019-10-29 14:08:20 +0000 UTC
+554,OPEN,异步线程同步返回CompletableFuture如何追踪,,2019-05-07 06:22:11 +0000 UTC
+551,OPEN,Rename package from com.taobao.arthas to com.alibaba.arthas,disscuss, 4.0,2020-01-28 15:02:15 +0000 UTC
+536,OPEN,Arthas 4.0计划,disscuss, 4.0,2023-03-21 13:52:21 +0000 UTC
+393,OPEN,Arthas源码分析,help wanted,2023-01-20 02:01:12 +0000 UTC
+304,OPEN,Add a verbose/debug option for the user more easier to find out the problem,feature,2020-01-18 03:00:39 +0000 UTC
+118,OPEN,希望增加在任意一行日志的功能,,2018-11-26 19:09:07 +0000 UTC
+111,OPEN,Wanted: who's using Arthas/您在使用Arthas吗？,help wanted,2023-08-25 02:25:39 +0000 UTC
